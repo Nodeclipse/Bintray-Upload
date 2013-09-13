@@ -24,7 +24,9 @@ Create file `bintray-config.js` with content like below:
 	
 then run from directory where are files to upload
 
-	node path/to/bintray-upload.js	
+	node path/to/bintray-upload.js
+	
+or		
 
 	coffee path/to/bintray-upload.coffee
 	
@@ -32,6 +34,11 @@ use generate line like below in `.sh` or `.cmd` file
 
 	curl -T bintray-upload.coffee -upaul-verest:ba636be90099ed1 https://api.bintray.com/content/undefined/generic/package/0.1.0/
 	curl -T bintray-upload.js -upaul-verest:ba636be90099ed1 https://api.bintray.com/content/undefined/generic/package/0.1.0/
+
+### How to get curl on Windows ?
+
+Get with [msysgit](http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git)
+ ([git for Windows](http://msysgit.github.io/)) or from <http://curl.haxx.se/download.html>
 
 ### How to get API_KEY ?
 
