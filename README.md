@@ -32,7 +32,27 @@ use generate line like below in `.sh` or `.cmd` file
 
 	curl -T bintray-upload.coffee -upaul-verest:ba636be90099ed1 https://api.bintray.com/content/undefined/generic/package/0.1.0/
 	curl -T bintray-upload.js -upaul-verest:ba636be90099ed1 https://api.bintray.com/content/undefined/generic/package/0.1.0/
-		
+
+### How to get API_KEY ?
+
+From [Bintray User Guide](https://bintray.com/docs/bintrayuserguide.html)
+
+> API Keys
+
+> An API Key is a code for identifying, authenticating and authorizing a specific user’s access and activities using API tools in Bintray. Current functionality allows each user to use only one API Key at any given time but the feature of allowing multiple API Keys to each user is coming soon!
+
+> To acquire an API Key for your user account:
+
+>     1. Access your own User Profile.
+
+>     2. Click the Edit button under your username.
+
+>     3. Select the API Key tab.
+
+>     4. If there is no API Key displayed, click the Generate One link.
+
+>     The new API Key is displayed (it is already saved in the system).
+
 ## Developing
 
 nodejs, coffee
