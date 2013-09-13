@@ -1,0 +1,11 @@
+// configuration
+// this is javascript module, not JSON to allow comments
+exports.config = {
+  user_name: "paul-verest",
+  api_key:"ba636be90099ed1",
+  account_or_organization:"paul-verest",
+  repository:"generic",
+  package_name:"package",
+  version_name:"0.1.0",
+  file_target_path:"" //#"0_1_0"
+};

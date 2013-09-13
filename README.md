@@ -15,7 +15,7 @@ Create file `bintray-config.js` with content like below:
 	exports.config = {
 	  user_name: "paul-verest",
 	  api_key:"ba636be90099ed1",
-	  account__or_organization:"paul-verest",
+	  account_or_organization:"paul-verest",
 	  repository:"generic",
 	  package_name:"package",
 	  version_name:"0.1.0",
