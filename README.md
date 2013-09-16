@@ -64,6 +64,8 @@ From [Bintray User Guide](https://bintray.com/docs/bintrayuserguide.html)
 
 nodejs, coffee
 
+https://github.com/styleguide/javascript
+
 ### Tools
 
 Created with [Nodeclipse v0.5](https://github.com/Nodeclipse/nodeclipse-1)
