@@ -66,6 +66,12 @@ nodejs, coffee
 
 https://github.com/styleguide/javascript
 
+### Ideas, TODOs
+
+I thought is there node.js libraries that implement culr.
+I searching in NPM Registry <https://npmjs.org/search?q=curl>. There is a dozen modules, mostly 0.1x updated 2 years ago.
+I have tried [node-curl](https://npmjs.org/package/node-curl), I doesn't work on Windows (though I already got curl.exe).
+
 ### Tools
 
 Created with [Nodeclipse v0.5](https://github.com/Nodeclipse/nodeclipse-1)

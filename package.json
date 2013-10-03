@@ -1,0 +1,20 @@
+{
+  "name": "Bintray-Upload",
+  "version": "0.1.0",
+  "description": "Node with CoffeeScript",
+  "main": "bintray-upload",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "Node.js",
+    "Eclipse",
+    "Nodeclipse",
+    "Bintray",
+    "upload"
+  ],
+  "author": "Paul Verest",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
